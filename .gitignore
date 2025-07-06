@@ -1,0 +1,23 @@
+# Python build artifacts
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+virtualenv/
+env/
+
+# Local database
+backend/chroma_db/
+
+# Environment variables
+.env
+
+# IDE configuration
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+todo.md
